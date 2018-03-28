@@ -118,7 +118,7 @@
 1. [] At the end of the manual, include the conclusion hosted on github.
 
     <!-- https://raw.githubusercontent.com/CareerRockIT/Launch-2018/master/Lab-End -->
-    \
+    
 
 1. [] Change all text to Arial
 
